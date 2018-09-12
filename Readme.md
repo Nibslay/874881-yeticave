@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
-* Студент: [Александр Соркин](https://up.htmlacademy.ru/php/6/user/874881).
-* Наставник: `Неизвестно`.
+* Студент: [Александр Старокожев](https://up.htmlacademy.ru/php/6/user/874881).
+* Наставник: [Михаил Куприянов](https://htmlacademy.ru/profile/id541075).
 
 ---
 
